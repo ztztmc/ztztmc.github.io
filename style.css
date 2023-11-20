@@ -1,0 +1,15 @@
+body {
+    color: white;
+    background-color: rgb(24, 24, 24);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1{
+    padding-top: 4em;
+}
+
+p{
+    margin: 2em 0;
+}
